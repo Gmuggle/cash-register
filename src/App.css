@@ -1,0 +1,86 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.red-text{
+  color: red;
+}
+
+.hidden{
+  display: none
+}
+
+/*entire style*/
+#information-input, #result, #cash-setting-div {
+  border: 2px black solid;
+  border-radius: 5px;
+  text-align: center;
+  height: 50vh;
+  margin-bottom: 1em;
+  overflow: auto;
+}
+
+#result h3 {
+  text-align: left;
+}
+
+#information-input ul, #result ul, #cash-setting-div ul {
+  list-style: none;
+  text-align: left;
+}
+
+#display-btn {
+  margin-top: 1em;
+}
+#display-btn button {
+  display: inline-block;
+  width: 50%;
+}
+
+#cash-submit, #cid-reset {
+  margin-top: 0.5em;
+}
+#cash-setting-btn-wrapper {
+  width: 100%;
+  margin: 0;
+  margin-bottom: 1em;
+  /* overflow-x: hidden; */
+}
+#cash-setting-div ul li {
+  margin: 0;
+}
