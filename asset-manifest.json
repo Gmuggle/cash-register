@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/cash-register/static/css/main.1a976106.chunk.css",
+    "main.js": "/cash-register/static/js/main.c433fdff.chunk.js",
+    "main.js.map": "/cash-register/static/js/main.c433fdff.chunk.js.map",
+    "runtime-main.js": "/cash-register/static/js/runtime-main.a231a9c0.js",
+    "runtime-main.js.map": "/cash-register/static/js/runtime-main.a231a9c0.js.map",
+    "static/css/2.af73c5cf.chunk.css": "/cash-register/static/css/2.af73c5cf.chunk.css",
+    "static/js/2.ad5199a4.chunk.js": "/cash-register/static/js/2.ad5199a4.chunk.js",
+    "static/js/2.ad5199a4.chunk.js.map": "/cash-register/static/js/2.ad5199a4.chunk.js.map",
+    "index.html": "/cash-register/index.html",
+    "precache-manifest.fdf267535a964681c6626fb568a2a29e.js": "/cash-register/precache-manifest.fdf267535a964681c6626fb568a2a29e.js",
+    "service-worker.js": "/cash-register/service-worker.js",
+    "static/css/2.af73c5cf.chunk.css.map": "/cash-register/static/css/2.af73c5cf.chunk.css.map",
+    "static/css/main.1a976106.chunk.css.map": "/cash-register/static/css/main.1a976106.chunk.css.map",
+    "static/js/2.ad5199a4.chunk.js.LICENSE": "/cash-register/static/js/2.ad5199a4.chunk.js.LICENSE",
+    "static/media/bootstrap.min.css": "/cash-register/static/media/glyphicons-halflings-regular.fa277232.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a231a9c0.js",
+    "static/css/2.af73c5cf.chunk.css",
+    "static/js/2.ad5199a4.chunk.js",
+    "static/css/main.1a976106.chunk.css",
+    "static/js/main.c433fdff.chunk.js"
+  ]
+}
